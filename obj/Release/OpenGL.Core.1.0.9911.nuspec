@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OpenGL.Core</id>
+    <version>1.0.9911</version>
+    <title>OpenGL.Core</title>
+    <authors>Charles Katzenburg</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <copyright>Copyright © 2013-2025 Quba Systems Inc. All rights reserved.</copyright>
+    <tags>OpenGL, C#, C</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrator\source\repos\OpenGL.Core\bin\x64\Release\net8.0\OpenGL.Core.dll" target="lib\net8.0\OpenGL.Core.dll" />
+    <file src="C:\Users\Administrator\source\repos\OpenGL.Core\LICENSE" target="\LICENSE" />
+  </files>
+</package>

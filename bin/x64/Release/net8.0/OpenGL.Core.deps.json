@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OpenGL.Core/1.0.9911": {
+        "runtime": {
+          "OpenGL.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenGL.Core/1.0.9911": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
